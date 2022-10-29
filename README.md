@@ -1,1 +1,5 @@
 # Road-Lane-Detection
+
+Researchers in relevant disciplines from all over the world have started to pay more attention to the development of smart automobiles in recent years. Smart vehicles' relevance in enhancing driving safety and freeing people from tiresome driving settings may be seen in its ability to assist humans with driving responsibilities based on real-time traffic information. In the process of developing intelligent vehicles, lane detection is a crucial foundational component that directly impacts the implementation of driving behaviours. These characteristics considerably improve the effectiveness and safety of automated driving by allowing the smart car to determine an appropriate driving direction and provide the precise location of the vehicle in the lane based on the driving lane.
+
+Here is a python code demonstrating how the camera detects the road lane using various algorithms and methods. This would help the vehicle to maintain its lane in a situation where the driver is not attentive avoiding unwanted situations.
